@@ -1,0 +1,64 @@
+{
+    "name": "Creating category",
+    "start": 1744729309063,
+    "stop": 1744729316712,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Create category wkheat",
+            "start": 1744729312521,
+            "stop": 1744729312522,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [],
+            "attachments": [],
+            "parameters": []
+        }
+    ],
+    "attachments": [],
+    "parameters": [],
+    "uuid": "e7848ae3-a609-4f25-a573-92ecd01be86c",
+    "historyId": "a9db75916d7a12c221a232b302026911",
+    "fullName": "com.escodro.alkaa.CategoryTest.checkCreateCategory",
+    "labels": [
+        {
+            "name": "package",
+            "value": "com.escodro.alkaa"
+        },
+        {
+            "name": "testClass",
+            "value": "com.escodro.alkaa.CategoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkCreateCategory"
+        },
+        {
+            "name": "suite",
+            "value": "com.escodro.alkaa.CategoryTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(48)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

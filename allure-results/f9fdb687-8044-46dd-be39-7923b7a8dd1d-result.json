@@ -1,0 +1,77 @@
+{
+    "name": "Deleting category",
+    "start": 1744729316977,
+    "stop": 1744729322396,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Create category egzvmj",
+            "start": 1744729317753,
+            "stop": 1744729317753,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [],
+            "attachments": [],
+            "parameters": []
+        },
+        {
+            "name": "Remove category egzvmj",
+            "start": 1744729319775,
+            "stop": 1744729319775,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [],
+            "attachments": [],
+            "parameters": []
+        }
+    ],
+    "attachments": [],
+    "parameters": [],
+    "uuid": "f9fdb687-8044-46dd-be39-7923b7a8dd1d",
+    "historyId": "dfc347b66ee9961cab4986a6776c0d05",
+    "fullName": "com.escodro.alkaa.CategoryTest.checkDeleteCategory",
+    "labels": [
+        {
+            "name": "package",
+            "value": "com.escodro.alkaa"
+        },
+        {
+            "name": "testClass",
+            "value": "com.escodro.alkaa.CategoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkDeleteCategory"
+        },
+        {
+            "name": "suite",
+            "value": "com.escodro.alkaa.CategoryTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(48)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "name": "Searching existing task",
+    "start": 1744729329526,
+    "stop": 1744729336098,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Search task uhjakk",
+            "start": 1744729333526,
+            "stop": 1744729333527,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [],
+            "attachments": [],
+            "parameters": []
+        },
+        {
+            "name": "Complete task uhjakk",
+            "start": 1744729334203,
+            "stop": 1744729334203,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [],
+            "attachments": [],
+            "parameters": []
+        },
+        {
+            "name": "Complete task 'taskName'",
+            "start": 1744729334640,
+            "stop": 1744729334640,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [],
+            "attachments": [],
+            "parameters": []
+        }
+    ],
+    "attachments": [],
+    "parameters": [],
+    "uuid": "3a044978-f0b6-4888-b511-03a140a94a36",
+    "historyId": "31636af96f6a2428587b0a3b050631",
+    "fullName": "com.escodro.alkaa.SearchTest.searchTask",
+    "labels": [
+        {
+            "name": "package",
+            "value": "com.escodro.alkaa"
+        },
+        {
+            "name": "testClass",
+            "value": "com.escodro.alkaa.SearchTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "searchTask"
+        },
+        {
+            "name": "suite",
+            "value": "com.escodro.alkaa.SearchTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(48)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
